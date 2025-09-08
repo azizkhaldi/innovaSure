@@ -269,6 +269,7 @@ Extract handwritten text using CRNN architecture
 ### 9.1. Web Application with Flask
 - User-friendly web interface for document analysis
 
+
 ### 9.2. Tech Stack
 - Backend: Flask
 - Frontend: HTML5, Bootstrap, CSS
@@ -286,9 +287,13 @@ Extract handwritten text using CRNN architecture
 
 ### 9.4. Interface Overview
 - Main page for upload and analysis
+  <img width="705" height="366" alt="image" src="https://github.com/user-attachments/assets/fe38d5b7-5e4f-4366-a1a5-f3fae6bcdfad" />
 - Invoice tab for verification and reporting
+  <img width="715" height="343" alt="image" src="https://github.com/user-attachments/assets/cf23fcf7-2ca3-4961-a11e-a6b44500becf" />
+
 - About section with project details
 - Login/Signup with OAuth2
+<img width="711" height="320" alt="image" src="https://github.com/user-attachments/assets/fb716d0d-0e24-4cd1-a8d5-e84ab5839416" />
 
 ### 9.5. Benefits of Deployment
 - Lightweight and scalable
